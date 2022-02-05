@@ -1,0 +1,48 @@
+.btn-slide {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #f1f1f1;
+    border: 1px solid rgba(34, 34, 34, 0.287);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.btn-slide:hover{
+    border: 3px solid rgb(241, 107, 44);
+  }
+  
+.btn-slide img {
+    width: 10px;
+    height: 10px;
+    pointer-events: none;
+}
+
+.prev {
+    top: 50%;
+    left: 20px;
+    transform: translateY(-60%);
+}
+  
+.next {
+    top: 50%;
+    right: 20px;
+    transform: translateY(-60%);
+}
+
+@media (min-width: 530px){
+    .prev {
+        top: 50%;
+        left: -20px;
+        transform: translateY(-60%);
+    }
+      
+    .next {
+        top: 50%;
+        right: -20px;
+        transform: translateY(-60%);
+    }
+}

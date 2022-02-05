@@ -1,0 +1,116 @@
+header{
+    min-height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: hidden;
+    border-bottom: 2px solid #E8E8E8;
+}
+
+header nav{
+    display: flex;
+    align-items: center;
+}  
+
+nav ul{
+    margin-left: 15px;
+}
+
+nav ul li{
+    list-style: none;
+    text-decoration: none;
+    color: #555;
+    padding: 0 15px;
+    cursor: pointer;
+    float: left;
+}
+
+nav ul li:hover{
+    color: rgb(241, 107, 44);
+}
+
+.user-div{
+    display: flex;
+    float: right;
+    align-items:center;
+}
+
+.nav-cart{
+    cursor: pointer;
+    position: relative;
+}
+
+.nav-cart span{
+    position: absolute;
+    top:-12px;
+    right: -7px;
+    background: rgb(241, 107, 44);
+    font-size: 10px;
+    color: white;
+    padding: 3px 5px;
+    border-radius: 50%;
+    z-index: -1;
+}
+
+.avatar-div{
+    cursor: pointer;
+    position: relative;
+    margin-left: 20px;
+    top: -2.5px
+}
+
+.avatar {
+    width: 35px;
+    border-width: 5px;
+}
+
+.avatar:hover {
+    filter: drop-shadow(1px 0 0 rgb(241, 107, 44)) 
+            drop-shadow(0 1px 0 rgb(241, 107, 44))
+            drop-shadow(-1px 0 0 rgb(241, 107, 44)) 
+            drop-shadow(0 -1px 0 rgb(241, 107, 44));
+}
+
+header .menu,
+header .close{
+    cursor: pointer;
+    display: none;
+}
+
+@media (max-width: 670px){
+    header ul{
+        position: fixed;
+        top: 0;
+        left: -100%;
+        width: 70%;
+        height: 100vh;
+        display: flex;
+        justify-content: start;
+        align-items: left;
+        flex-direction: column;
+        background: white;
+        z-index: 99;
+        opacity: 0.97;
+        transition: 0.2s linear;
+        margin-bottom: 20px;
+        font-weight: bold;
+        margin-left: 0;
+    }
+    header ul li{
+        margin-bottom: 30px;
+    }
+    header .menu,
+    header .close{
+        display: block;
+    }
+    header .close{
+        position: absolute;
+        top: 20px;    
+    }
+    header ul.toggle{
+        left: 0;
+    }
+    .toggleList{
+        margin-top: 90px;
+    }
+}
