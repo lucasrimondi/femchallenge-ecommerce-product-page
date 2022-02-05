@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# Frontend Mentor - E-commerce product page solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
 
-## Available Scripts
+## Overview 📝
 
-In the project directory, you can run:
+Users should be able to:
 
-### `npm start`
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for interactive elements on the page
+- Open a lightbox gallery by clicking on the large product image
+- Switch the large product image by clicking on the small thumbnail images
+- Add items to the cart
+- View the cart and remove items from it
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Built with 🔧
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- Context API
 
-### `npm test`
+## Screenshots 🖥️ 📲
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center">
+<img width="700" src="https://user-images.githubusercontent.com/87493125/152624910-21d5bb6d-9125-470f-b166-07e338761ad0.png">
+</div>
+<br>
+<div align="center">
+<img height="400" src="https://user-images.githubusercontent.com/87493125/152624926-24e995d5-180f-4162-a9b1-68247297fd7d.png">
+</div>
+<br>
+<div align="center">
+<img width="300" src="https://user-images.githubusercontent.com/87493125/152624938-7b8877e5-9aba-4289-8bc3-35f4dc00349c.png">
+<img width="293.5" src="https://user-images.githubusercontent.com/87493125/152624950-57919365-92d6-488c-8001-601ea473075f.png">
+</div>
+<br>
+<div align="center">
+<img width="340" src="https://user-images.githubusercontent.com/87493125/152624956-8af11c05-f721-49d9-837a-33df27b946b3.png">
+</div>
+<br>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Links 🔗
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: [frontendmentor solution page](https://www.frontendmentor.io/solutions/ecommerce-product-page-fully-responsive-reactjs-context-api-A21dn6HaH)
+- Live Site URL: [gh pages link](https://lucasrimondi.github.io/femchallenge-ecommerce-product-page/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Author 👤
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Frontend Mentor - [@lucasrimondi](https://www.frontendmentor.io/profile/lucasrimondi)
+- LinkedIn - [/lucasrimondi](https://www.linkedin.com/in/lucasrimondi/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
