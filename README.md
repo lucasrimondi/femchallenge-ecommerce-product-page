@@ -15,12 +15,11 @@ Users should be able to:
 
 ## Built with 🔧
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - Context API
+- Mobile-first workflow
+- CSS custom properties
+- Flexbox
 
 ## Screenshots 🖥️ 📲
 
@@ -53,17 +52,3 @@ Users should be able to:
 
 - Frontend Mentor - [@lucasrimondi](https://www.frontendmentor.io/profile/lucasrimondi)
 - LinkedIn - [/lucasrimondi](https://www.linkedin.com/in/lucasrimondi/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
