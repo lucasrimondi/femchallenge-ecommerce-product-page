@@ -1,6 +1,6 @@
 # Frontend Mentor - E-commerce product page solution
 
-This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
+This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). It is a fully responsive product detail page (whitout using any styling frameworks) made with ReactJS and managing its state with Context API.
 
 ## Overview 📝
 
@@ -11,7 +11,7 @@ Users should be able to:
 - View the cart and remove items from it
 - Open a lightbox gallery by clicking on the large product image
 - Switch the large product image by clicking on the small thumbnail images
-- Image's carousel in mobile view
+- Animated carousel in mobile view
 - See hover states for interactive elements on the page
 
 ## Built with 🔧
