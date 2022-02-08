@@ -18,7 +18,6 @@ Users should be able to:
 
 - [React](https://reactjs.org/) - JS library
 - Context API
-- Mobile-first workflow
 - CSS custom properties
 - Flexbox
 
