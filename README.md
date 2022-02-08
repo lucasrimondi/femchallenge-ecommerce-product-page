@@ -45,7 +45,7 @@ Users should be able to:
 ## Links 🔗
 
 - Solution URL: [frontendmentor solution page](https://www.frontendmentor.io/solutions/ecommerce-product-page-fully-responsive-reactjs-context-api-A21dn6HaH)
-- Live Site URL: [gh pages link](https://lucasrimondi.github.io/femchallenge-ecommerce-product-page/)
+- Live Site URL: [gh-pages link](https://lucasrimondi.github.io/femchallenge-ecommerce-product-page/)
 
 
 ## Author 👤
