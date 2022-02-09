@@ -1,6 +1,7 @@
 # Frontend Mentor - E-commerce product page solution
 
-This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). It is a fully responsive product detail page created without using any styling frameworks. This solution was developed with ReactJS (managing its state with Context API).
+This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). It was developed with ReactJS (managing its state with Context API). 
+It is a fully responsive product detail page created without using any styling frameworks.
 
 ## Overview 📝
 
