@@ -3,6 +3,11 @@
 This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). It was developed with ReactJS (fetching product info from a [mock API](https://www.mockachino.com/b045b644-d886-4e/products/7d6f7710-95d0-4a27-ae6c-b02c6cb0348f) and managing app's state with Context API). 
 It is a fully responsive product detail page created without using any styling frameworks.
 
+## Links 🔗
+
+- Deployment (live site URL): [gh-pages link](https://lucasrimondi.github.io/femchallenge-ecommerce-product-page/)
+- Solution URL: [frontendmentor solution page](https://www.frontendmentor.io/solutions/ecommerce-product-page-fully-responsive-reactjs-context-api-A21dn6HaH)
+
 ## Overview 📝
 
 Users should be able to:
@@ -22,11 +27,6 @@ Users should be able to:
 - Context API
 - CSS custom properties
 - Flexbox
-
-## Links 🔗
-
-- Live Site URL: [gh-pages link](https://lucasrimondi.github.io/femchallenge-ecommerce-product-page/)
-- Solution URL: [frontendmentor solution page](https://www.frontendmentor.io/solutions/ecommerce-product-page-fully-responsive-reactjs-context-api-A21dn6HaH)
 
 ## Screenshots 🖥️ 📲
 
