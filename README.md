@@ -35,7 +35,7 @@ Users should be able to:
 </div>
 <br>
 <div align="center">
-<img height="400" src="https://user-images.githubusercontent.com/87493125/152624926-24e995d5-180f-4162-a9b1-68247297fd7d.png">
+<img height="400" src="https://user-images.githubusercontent.com/87493125/155057294-6747e766-c9a9-47c2-a227-7ff2dfcbf229.png">
 </div>
 <br>
 <div align="center">
