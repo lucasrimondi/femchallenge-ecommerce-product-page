@@ -17,11 +17,16 @@ Users should be able to:
 
 ## Built with 🔧
 
-- ReactJS library
+- ReactJS 
 - Product info fetched from a [mock API](https://www.mockachino.com/b045b644-d886-4e/products/7d6f7710-95d0-4a27-ae6c-b02c6cb0348f)
 - Context API
 - CSS custom properties
 - Flexbox
+
+## Links 🔗
+
+- Live Site URL: [gh-pages link](https://lucasrimondi.github.io/femchallenge-ecommerce-product-page/)
+- Solution URL: [frontendmentor solution page](https://www.frontendmentor.io/solutions/ecommerce-product-page-fully-responsive-reactjs-context-api-A21dn6HaH)
 
 ## Screenshots 🖥️ 📲
 
@@ -42,13 +47,6 @@ Users should be able to:
 <img width="340" src="https://user-images.githubusercontent.com/87493125/152624956-8af11c05-f721-49d9-837a-33df27b946b3.png">
 </div>
 <br>
-
-
-## Links 🔗
-
-- Solution URL: [frontendmentor solution page](https://www.frontendmentor.io/solutions/ecommerce-product-page-fully-responsive-reactjs-context-api-A21dn6HaH)
-- Live Site URL: [gh-pages link](https://lucasrimondi.github.io/femchallenge-ecommerce-product-page/)
-
 
 ## Author 👤
 
