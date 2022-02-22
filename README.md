@@ -1,4 +1,4 @@
-# 'Frontend Mentor' | E-commerce product page solution
+# Frontend Mentor | E-commerce product page solution
 
 This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). It was developed with ReactJS (fetching product info from a [mock API](https://www.mockachino.com/b045b644-d886-4e/products/7d6f7710-95d0-4a27-ae6c-b02c6cb0348f) and managing app's state with Context API). 
 It is a fully responsive product detail page created without using any styling frameworks.
